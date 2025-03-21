@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on series of projects
+- 🔭 I’m currently working on series of projects for set of organization such as Sri Lanka Mahaweli Authority, Carzone Lanka(Pvt) Ltd, Metrococn Constructors(Pvt) Ltd and etc.
 
-- 🌱 I’m currently learning **MERN,Python & AI**
+- 🌱 I’m currently learning **React, Redux, vue along with API handling** and also deep interest in Python Based ML development Learnings.
 
-- 👯 I’m looking to collaborate on project **Zenflow- Mind relaxing web**
+- 👯 I’m looking to collaborate on project **SMART ADMINISTRATIVE SYSTEM, CARZONE LANKA WEBSITE, STOCK MANAGEMNET SITE, RESTURANT MANAGEMENT APP and etc.**
 
-- 🤝 I’m looking for help with **xpanding my knowledge in full-stack development**
+- 🤝 I’m looking for help with **xpanding my knowledge in full-stack development and python based ML model development**
 
 - 📝 I regularly write articles on [https://newsanas84.wordpress.com/](https://newsanas84.wordpress.com/)
 
-- 💬 Ask me about **Java, JS,HTML/CSS**
+- 💬 Creative Designer with **AI, PS, AE**
 
 - 📫 How to reach me **sandaliwijesooriya18@gmail.com**
 
